@@ -1,0 +1,7 @@
+C:\Users\trohi\Desktop\Lab2\University\bin\Debug\University.exe.config
+C:\Users\trohi\Desktop\Lab2\University\bin\Debug\University.exe
+C:\Users\trohi\Desktop\Lab2\University\bin\Debug\University.pdb
+C:\Users\trohi\Desktop\Lab2\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+C:\Users\trohi\Desktop\Lab2\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\trohi\Desktop\Lab2\University\obj\Debug\University.exe
+C:\Users\trohi\Desktop\Lab2\University\obj\Debug\University.pdb
