@@ -1,0 +1,7 @@
+C:\Users\trohi\Desktop\Lab1\HouseRoads\bin\Debug\HouseRoads.exe.config
+C:\Users\trohi\Desktop\Lab1\HouseRoads\bin\Debug\HouseRoads.exe
+C:\Users\trohi\Desktop\Lab1\HouseRoads\bin\Debug\HouseRoads.pdb
+C:\Users\trohi\Desktop\Lab1\HouseRoads\obj\Debug\HouseRoads.csproj.CoreCompileInputs.cache
+C:\Users\trohi\Desktop\Lab1\HouseRoads\obj\Debug\HouseRoads.exe
+C:\Users\trohi\Desktop\Lab1\HouseRoads\obj\Debug\HouseRoads.pdb
+C:\Users\trohi\Desktop\Lab1\HouseRoads\obj\Debug\HouseRoads.csprojResolveAssemblyReference.cache
